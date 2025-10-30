@@ -1,0 +1,16 @@
+{
+  "name": "@gentry-way/test-11ty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  },
+  "scripts": {
+    "build": "npx @11ty/eleventy"
+  }
+}
